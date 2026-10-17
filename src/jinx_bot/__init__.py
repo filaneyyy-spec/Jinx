@@ -1,1 +1,0 @@
-"""Prismaxys Telegram bot."""
